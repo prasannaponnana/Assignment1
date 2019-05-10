@@ -1,9 +1,9 @@
-header
+ header
 {
-	background-color: white;
+  background-color: white;
   padding-top: 0px;
-	position: fixed;
-	width: 100%; 
+  position: fixed;
+  width: 100%; 
   top: 0;
   height:200px;
 }
@@ -20,10 +20,10 @@ header img{
 }
 nav ul li 
 {
-	display: inline;
-	float: right;
+  display: inline;
+  float: right;
   padding-left: 50px;
-	text-decoration: none;
+  text-decoration: none;
 padding-right:30px;
 padding-top: 0px;
 padding-bottom:100px;
@@ -58,7 +58,7 @@ nav ul li a
 
 figure img{
   padding-bottom: 80px;
-  padding-right:180px;
+  padding-right:100px;
   padding-left:50px;
 }
 
@@ -69,27 +69,27 @@ figure img{
  float:right;
  padding-bottom:350px;.wrapper {
   display: grid;
-  	padding-top: 350px;
-  	}
-  	.wrapper {
-  	    width: 485px;
-  	}
-  	    border-radius: 5px;
-  	    background-color: white;
-  	}
+    padding-top: 350px;
+    }
+    .wrapper {
+        width: 485px;
+    }
+        border-radius: 5px;
+        background-color: white;
+    }
 
-  	.wrapper > div {
-  	    border: 5px white;
-  	    border-radius: 5px;
-  	    background-color: white;
-  	    padding: 1em;
-  	    color: #d9480f;
-  	}
-  	.wrapper {
-  	  display: grid;
-  	  grid-template-columns: repeat(3,3fr);
-  	  grid-auto-rows: 100px;
-  	}
+    .wrapper > div {
+        border: 5px white;
+        border-radius: 5px;
+        background-color: white;
+        padding: 1em;
+        color: #d9480f;
+    }
+    .wrapper {
+      display: grid;
+      grid-template-columns: repeat(3,3fr);
+      grid-auto-rows: 100px;
+    }
     .column,.row{
       height: 200px;
     }
@@ -118,7 +118,7 @@ figure img{
        } 
        .grid-container3
        {
-       background-color: black;
+       background-color: white;
 
 
        display: grid;
