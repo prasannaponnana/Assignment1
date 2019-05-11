@@ -1,2 +1,2 @@
 This is my second website
-link is here:https://prasannaponnana.github.io/assignment2/. 
+link is here:https://github.com/prasannaponnana/assignment.git
